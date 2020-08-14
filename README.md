@@ -1,4 +1,4 @@
-# The Zalgo™ Media Editor.
+# The Zalgo™ Media Editor
 The official Zalgo Media Editor Git repository.
 Requires the STB library (possibly others in the future.)
 
