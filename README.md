@@ -2,7 +2,13 @@
 The official Zalgo Media Editor Git repository.
 Requires the STB library (possibly others in the future.)
 
-Compile with `gcc main.c -o zme-bin -lm`.
+Compile with:
+Linux (Tested with Majaro) - `gcc main.c -o zme-linux -lm -I/usr/include/SDL2 -D_REENTRANT -L/usr/lib -pthread -lSDL2 -lSDL2_image`
+
+MacOS - (WIP)
+
+Windows - (WIP)
+
 
 Usage:
 zme [r c] input.png output.png [additional arg(s)]
