@@ -5,7 +5,7 @@ The Zalgo Media Editor is a light, general-purpose image editor. It currently re
 
 # Dependencies:
 
-- the STB library (make)
+- the STB library (make, place in lib folder)
 - SDL2 / SDL2_image (make, runtime)
 
 (Dependencies may change in the future.)
